@@ -1,0 +1,8 @@
+[package]
+name = "day10"
+version = "0.1.0"
+authors = ["Nate Tenczar <ntenczar@gmail.com>"]
+
+[dependencies]
+quickcheck = "0.4"
+quickcheck_macros = "0.4"
